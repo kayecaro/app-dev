@@ -1,2 +1,6 @@
-# app-dev
-My first repository
+## **MY FAVORITE SERIES/MOVIES**
+- Gintama
+- Cardcaptor Sakura
+- One Piece
+- Chobits
+- Itazura na Kiss
